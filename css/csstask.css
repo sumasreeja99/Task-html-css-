@@ -1,0 +1,13 @@
+table {
+    background-color: rgb(3, 218, 226);
+    border-spacing: 2px;
+    border-color: aliceblue;
+    width: 100%;
+    border-radius: 10px;
+    
+  }
+  
+  td, th {
+    border: 1px solid rgb(244, 239, 239);
+    border-radius: 10px;
+    border-color: black;
